@@ -21,7 +21,7 @@ module.exports = {
   networks:{
     ropsten:{
       url:'https://eth-ropsten.alchemyapi.io/v2/JUs_NmFqau4vPU7XB8Mu0mdJyWAjcvFA',
-      accounts:['11a5ad5505533ae40eea96b32ccabaac51c3650f0221146de9f80f42b91318f7']
+      accounts:['Ropsten_account_privateKey']
     }
   }
 };

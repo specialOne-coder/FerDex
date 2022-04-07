@@ -1,4 +1,8 @@
 # FerDex - Web 3.0 Blockchain Application
+
+Tu peux voir mon projet ici : https://my-cex.surge.sh/
+
+
 ![](client/src/assets/p1.png)
 
 ## Introduction
